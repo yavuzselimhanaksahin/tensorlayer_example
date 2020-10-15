@@ -1,0 +1,4 @@
+tensorflow # CPU version
+tensorflow-gpu==2.0.0-rc1 # TensorFlow GPU (version 2.0 RC1)
+tensorlayer
+
